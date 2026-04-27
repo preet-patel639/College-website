@@ -1,0 +1,259 @@
+[
+  {
+    "id": "bca",
+    "course_name": "Bachelor of Computer Applications (BCA)",
+    "short_name": "BCA",
+    "duration": "3 Years",
+    "total_semesters": 6,
+    "eligibility": "12th pass (any stream) with minimum 50%",
+    "fees": "₹45,000/year",
+    "icon": "💻",
+    "category": "Undergraduate",
+    "career_opportunities": [
+      "Software Developer",
+      "Web Developer",
+      "System Analyst",
+      "Data Analyst",
+      "IT Support Engineer"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Programming Fundamentals", "Mathematics I", "Computer Basics", "Communication Skills"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Data Structures", "Mathematics II", "Operating Systems", "Environmental Studies"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Object-Oriented Programming (Java)", "Database Management Systems", "Computer Networks", "Web Technologies"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Software Engineering", "Python Programming", "Data Analytics", "Mini Project"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Mobile Application Development", "Cloud Computing", "Cyber Security", "Industrial Training"]
+      },
+      {
+        "semester": 6,
+        "subjects": ["Major Project", "Internship", "Professional Ethics"]
+      }
+    ]
+  },
+  {
+    "id": "btech-cs",
+    "course_name": "Bachelor of Technology - Computer Science (B.Tech CS)",
+    "short_name": "B.Tech CS",
+    "duration": "4 Years",
+    "total_semesters": 8,
+    "eligibility": "12th pass (PCM) with minimum 60%",
+    "fees": "₹85,000/year",
+    "icon": "🔧",
+    "category": "Undergraduate",
+    "career_opportunities": [
+      "Software Engineer",
+      "AI/ML Engineer",
+      "Cloud Architect",
+      "DevOps Engineer",
+      "Research Scientist"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Engineering Mathematics I", "Physics", "Programming in C", "Engineering Graphics"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Engineering Mathematics II", "Chemistry", "Data Structures", "Digital Electronics"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Discrete Mathematics", "Algorithms", "Computer Organization", "Object-Oriented Programming"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Theory of Computation", "Database Systems", "Operating Systems", "Software Engineering"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Compiler Design", "Computer Networks", "Web Development", "Elective I"]
+      },
+      {
+        "semester": 6,
+        "subjects": ["Machine Learning", "Cloud Computing", "Information Security", "Elective II"]
+      },
+      {
+        "semester": 7,
+        "subjects": ["Artificial Intelligence", "Big Data Analytics", "Mini Project", "Elective III"]
+      },
+      {
+        "semester": 8,
+        "subjects": ["Major Project", "Internship", "Professional Ethics", "Entrepreneurship"]
+      }
+    ]
+  },
+  {
+    "id": "mca",
+    "course_name": "Master of Computer Applications (MCA)",
+    "short_name": "MCA",
+    "duration": "2 Years",
+    "total_semesters": 4,
+    "eligibility": "BCA / B.Sc. (CS/IT) with minimum 55%",
+    "fees": "₹60,000/year",
+    "icon": "🖥️",
+    "category": "Postgraduate",
+    "career_opportunities": [
+      "Senior Software Developer",
+      "System Architect",
+      "Database Administrator",
+      "IT Project Manager",
+      "Full Stack Developer"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Advanced Java Programming", "Advanced DBMS", "Software Architecture", "Research Methodology"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Machine Learning", "Cloud Technologies", "Advanced Web Development", "Cyber Security"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Big Data Analytics", "Mobile Computing", "IoT & Embedded Systems", "Minor Project"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Major Project / Dissertation", "Internship", "Professional Ethics & IPR"]
+      }
+    ]
+  },
+  {
+    "id": "mba",
+    "course_name": "Master of Business Administration (MBA)",
+    "short_name": "MBA",
+    "duration": "2 Years",
+    "total_semesters": 4,
+    "eligibility": "Any Graduate with minimum 50% & valid entrance score",
+    "fees": "₹90,000/year",
+    "icon": "📊",
+    "category": "Postgraduate",
+    "career_opportunities": [
+      "Business Manager",
+      "Marketing Manager",
+      "Financial Analyst",
+      "HR Manager",
+      "Entrepreneur"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Principles of Management", "Business Economics", "Financial Accounting", "Marketing Management"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Human Resource Management", "Business Statistics", "Corporate Finance", "Business Communication"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Strategic Management", "International Business", "Elective Specialization I", "Elective Specialization II"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Business Project / Dissertation", "Internship", "Leadership & Entrepreneurship"]
+      }
+    ]
+  },
+  {
+    "id": "bcom",
+    "course_name": "Bachelor of Commerce (B.Com)",
+    "short_name": "B.Com",
+    "duration": "3 Years",
+    "total_semesters": 6,
+    "eligibility": "12th pass (Commerce/Arts) with minimum 45%",
+    "fees": "₹30,000/year",
+    "icon": "📈",
+    "category": "Undergraduate",
+    "career_opportunities": [
+      "Accountant",
+      "CA / CMA (after further study)",
+      "Bank Officer",
+      "Financial Planner",
+      "Tax Consultant"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Financial Accounting", "Business Economics", "Business Law", "Communication Skills"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Corporate Accounting", "Micro Economics", "Company Law", "Environmental Studies"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Advanced Accounting", "Income Tax", "Cost Accounting", "Business Statistics"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Auditing", "Financial Management", "Macro Economics", "E-Commerce"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Advanced Tax", "Management Accounting", "Banking & Finance", "Elective I"]
+      },
+      {
+        "semester": 6,
+        "subjects": ["Project Work", "GST & Indirect Tax", "Business Ethics", "Elective II"]
+      }
+    ]
+  },
+  {
+    "id": "bba",
+    "course_name": "Bachelor of Business Administration (BBA)",
+    "short_name": "BBA",
+    "duration": "3 Years",
+    "total_semesters": 6,
+    "eligibility": "12th pass (any stream) with minimum 45%",
+    "fees": "₹40,000/year",
+    "icon": "🏢",
+    "category": "Undergraduate",
+    "career_opportunities": [
+      "Business Executive",
+      "Sales Manager",
+      "HR Executive",
+      "Marketing Executive",
+      "Operations Manager"
+    ],
+    "semesters": [
+      {
+        "semester": 1,
+        "subjects": ["Principles of Management", "Business Communication", "Business Economics", "Fundamentals of Accounting"]
+      },
+      {
+        "semester": 2,
+        "subjects": ["Organizational Behavior", "Marketing Fundamentals", "Computer Applications", "Environmental Studies"]
+      },
+      {
+        "semester": 3,
+        "subjects": ["Human Resource Management", "Financial Management", "Business Law", "Entrepreneurship"]
+      },
+      {
+        "semester": 4,
+        "subjects": ["Marketing Management", "Operations Management", "Research Methods", "E-Business"]
+      },
+      {
+        "semester": 5,
+        "subjects": ["Strategic Management", "International Business", "Elective Specialization", "Industrial Training"]
+      },
+      {
+        "semester": 6,
+        "subjects": ["Project Work", "Business Ethics", "Leadership Skills", "Elective II"]
+      }
+    ]
+  }
+]
+
